@@ -126,7 +126,7 @@ Scheduler Worker
 ##  Clone
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/MenokoOG/AutoForge-Lab.git
 cd autoforge-lab
 ```
 
